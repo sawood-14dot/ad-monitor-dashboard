@@ -1,2 +1,27 @@
 # ad-monitor-dashboard
 A dashboard that monitors public Meta/Instagram ads using Ad Library API
+Privacy Policy: Ad Monitor Dashboard
+Effective Date:16/08/2025
+
+Ad Monitor Dashboard (“we”, “our”, or “us”) is committed to protecting the privacy of users. This Privacy Policy describes how we handle information related to the use of our application and data dashboard.
+
+Information Collection
+We do not collect, store, or request any personally identifiable information (PII) from users. The app uses only public data from the Meta Ad Library API.
+
+Data Usage
+All data displayed in the dashboard is publicly accessible ad metadata provided by Meta. No tracking, user identification, or behavioral data is used or stored.
+
+Third-Party Access
+We do not share or sell any data to third parties.
+
+Cookies & Analytics
+This tool does not use cookies or third-party analytics tools.
+
+Data Security
+The application runs on publicly available APIs and no backend storage is involved. Therefore, no user data exists that requires protection.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+
+Contact
+If you have any questions or concerns, please contact us at: sawoodkdhunware@gmail.com
